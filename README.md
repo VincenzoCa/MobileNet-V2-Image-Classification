@@ -1,4 +1,4 @@
-# MobileNet-V2-Image-Classification
+# Image Classification with MobileNet V2
 
 In this [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) notebook we will be classifying images of different animal species living in Oregon using data from the [Oregon Wildlife Dataset](https://www.kaggle.com/virtualdvid/oregon-wildlife), which consists of a collection of 14,000+ labelled images.
 
